@@ -1,7 +1,7 @@
 ---
 title       : 在线学习的工业界应用
-subtitle    : HTML5 slides from R Markdown
-author      : 
+subtitle    : R Slidify
+author      : Kai Zhang
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
