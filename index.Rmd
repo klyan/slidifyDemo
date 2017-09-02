@@ -1,9 +1,9 @@
 ---
-title       : 在线学习的工业界应用
+title       : OL工业应用 & ID模型R实践
 subtitle    : R Slidify
 author      : Kai Zhang
 job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+framework   : revealjs        # {io2012, html5slides, shower, dzslides, revealjs, impressjs...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -14,16 +14,30 @@ github:
   repo:slidifyDemo
 ---
 
-## Read-And-Delete
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+## 大纲
+
+1. FTRL原理
+2. 工业界在线学习应用
+3. ID模型R实践
 
 --- .class #id 
 
-## Slide 2
+## FTRL原理
+
+1. Batch GD
+2. FTRL
+3. FTRL = Batch GD
+4.张凯
+>  1. Point 1
+>  2. Point 2
 
 
+---
+##第二页
+```
+```{r}
+R code is writen here
+```
 
 
